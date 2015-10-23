@@ -1,6 +1,6 @@
 # rbgtest
 
-Simple Go package to test Jenkins and Bamboo jobs with tests using go2xunit. <code>RandomBit()</code> randomly returns 0 or 1. Test fails if the returned value is 0.
+Simple Go package to test Jenkins and Bamboo jobs with tests using [go2xunit](https://bitbucket.org/tebeka/go2xunit). <code>RandomBit()</code> randomly returns 0 or 1. Test fails if the returned value is 0.
 
 Add the following to a test job:
 
